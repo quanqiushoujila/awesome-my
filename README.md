@@ -2,6 +2,7 @@
 ### PC端
 [VUE汇总1](https://github.com/vuejs/awesome-vue)  
 [VUE汇总2](https://github.com/opendigg/awesome-github-vue)
+[VUE汇总3](https://www.jianshu.com/p/aaf3d960ddc0)
 [REACT汇总](https://github.com/enaqx/awesome-react)
 [REACT_NATIVE汇总1](https://github.com/jondot/awesome-react-native)
 [REACT_NATIVE汇总2](https://github.com/crazycodeboy/react-native-awesome)
@@ -40,10 +41,28 @@
 
 [moment](http://momentjs.cn/)：JavaScript 日期处理类库  
 
-[nprogress](https://github.com/rstacruz/nprogress)：For slim progress bars like on YouTube, Medium, etc  
+[nprogress](https://github.com/rstacruz/nprogress)：加载条
 
 [qs](https://github.com/ljharb/qs)：A querystring parser with nesting support  
 
 [vuedraggable](https://sortablejs.github.io/Vue.Draggable/)：Draggable为基于Sortable.js的vue组件,用以实现拖拽功能  
 
-[crypto-js](https://github.com/brix/crypto-js)：JavaScript的加密算法类库
+[crypto-js](https://github.com/brix/crypto-js)：JavaScript的加密算法类库  
+
+[vue-image-crop-upload](https://github.com/dai-siki/vue-image-crop-upload)：vue图片剪裁上传组件  
+
+[vue-baidu-map](https://github.com/Dafrok/vue-baidu-map)：基于 Vue 2的百度地图组件库  
+
+[vuelidate](https://github.com/vuelidate/vuelidate)：简单轻量级的基于模块的Vue.js验证  
+
+[vuep](https://github.com/QingWei-Li/vuep)：用实时编辑和预览来渲染Vue组件  
+
+[vue-truncate-filter](https://github.com/imcvampire/vue-truncate-filter)：截断字符串的VueJS过滤器  
+
+[vue-cropper](https://github.com/xyxiao001/vue-cropper)：手机版压缩上传图片  
+
+[canvas自由绘制](https://blog.csdn.net/ydd321/article/details/47216009)  
+
+[vue-lazyload-img](https://github.com/JALBAA/vue-lazyload-img)：移动优化的vue图片懒加载插件  
+
+
