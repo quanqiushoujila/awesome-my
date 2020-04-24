@@ -65,4 +65,8 @@
 
 [vue-lazyload-img](https://github.com/JALBAA/vue-lazyload-img)：移动优化的vue图片懒加载插件  
 
+[vue-neditor-wrap](https://github.com/caiya/vue-neditor-wrap)：富文本
+
+[ueditor](https://github.com/fex-team/ueditor)：百度富文本
+
 
